@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(100, 221, 237);
+    margin: 2px;
+    padding: 2px;
+}
+#jogo1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+   text-align: center;
+   color: brown;
+}
+p{
+   font-size: 18px;
+   text-align: justify;
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+}
+#meushobbies {
+     width: 300px;
+     margin: auto; 
+     font-family: monospace;
+     
+}
+img{
+   border-radius: 6px;
+   max-width: 100%;
+   height: auto;
+   display: block;
+   margin-left: 0cm;
+}
+table{
+    border: 1px;
+    background-color: rgba(0, 195, 255, 0.966);
+    border-spacing: 1px;
+    text-align: center;
+    margin: auto;
+}
+td{
+   font-size: larger; 
+}
+a{  
+   color: black;
+}
+  a:hover{
+    color: rgb(241, 10, 10);
+}
+a{
+   display: block;
+   text-align: center;
+}  
+#botao {
+   border-bottom-style: solid;
+   background-color: rgba(0, 195, 255, 0.966);
+   text-decoration: underline;
+   display: block;
+   margin: auto;
+}
